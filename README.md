@@ -26,13 +26,10 @@ A machine learning-based web application that predicts the risk of heart disease
 ## 📸 Screenshots
 
 ### 🖥️ Main Interface
-
-![Main UI](images/ui.png)
+![Main UI](./images/ui.png)
 
 ### 📊 Prediction Result
-
-![Prediction Output](images/result.png)
-
+![Prediction Output](./images/result.png)
 ---
 
 ## 📂 Project Structure
