@@ -26,10 +26,10 @@ A machine learning-based web application that predicts the risk of heart disease
 ## 📸 Screenshots
 
 ### 🖥️ Main Interface
-<img src="https://raw.githubusercontent.com/siya-30/heart_disease_prediction/main/images/ui.jpeg" width="800"/>
+<img src="heart_disease_prediction/images/ui.jpeg" width="800"/>
 
 ### 📊 Prediction Result
-<img src="https://raw.githubusercontent.com/siya-30/heart_disease_prediction/main/images/result.jpeg" width="800"/>
+<img src="heart_disease_prediction/images/result.jpeg" width="800"/>
 ---
 
 ## 📂 Project Structure
